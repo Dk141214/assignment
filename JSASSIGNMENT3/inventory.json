@@ -1,0 +1,37 @@
+[
+  {
+    "itemId": 101,
+    "productName": "Smartphone Alpha",
+    "brand": "TechBrand Alpha"
+  },
+  {
+    "itemId": 102,
+    "productName": "Smartphone Beta",
+    "brand": "TechBrand Beta"
+  },
+  {
+    "itemId": 103,
+    "productName": "Smartphone Gamma",
+    "brand": "TechBrand Gamma"
+  },
+  {
+    "itemId": 104,
+    "productName": "Smartphone Delta",
+    "brand": "TechBrand Delta"
+  },
+  {
+    "itemId": 105,
+    "productName": "Smartphone Epsilon",
+    "brand": "TechBrand Epsilon"
+  },
+  {
+    "itemId": 106,
+    "productName": "Smartphone Zeta",
+    "brand": "TechBrand Zeta"
+  },
+  {
+    "itemId": 107,
+    "productName": "Smartphone Eta",
+    "brand": "TechBrand Eta"
+  }
+]
